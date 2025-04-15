@@ -24,7 +24,7 @@ A lightweight and privacy-focused cross-platform chat app built with Flutter. De
 ---
 
 ## 📱 Screenshots
-![Screenshot 2025-04-15 134808](https://github.com/user-attachments/assets/bc311f76-109d-4bdb-bec0-0b328fca73e5)![Screenshot 2025-04-15 134826](https://github.com/user-attachments/assets/d710a76e-0e8f-4746-aba2-b8e2aa0814a7)
+![Screenshot 2025-04-15 134808](https://github.com/user-attachments/assets/bc311f76-109d-4bdb-bec0-0b328fca73e5)! [Screenshot 2025-04-15 134826](https://github.com/user-attachments/assets/d710a76e-0e8f-4746-aba2-b8e2aa0814a7)
 
 
 
