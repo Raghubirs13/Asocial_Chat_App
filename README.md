@@ -7,17 +7,16 @@ A lightweight and privacy-focused cross-platform chat app built with Flutter. De
 ## 🚀 Features
 
 - 🧑‍🤝‍🧑 Real-time 1-on-1 chat
-- 🔒 End-to-end encryption (optional)
 - 🧭 Clean and distraction-free UI
 - 🌗 Light & dark themes
-- 📦 Cross-platform: Android, iOS, Web, Windows
+- 📦 Cross-platform: Android, iOS
 
 ---
 
 ## 🛠️ Built With
 
 - [Flutter](https://flutter.dev/)
-- Firebase (or your preferred backend)
+- Firebase 
 - Dart
 - [Provider](https://pub.dev/packages/provider) / [Bloc](https://pub.dev/packages/flutter_bloc) for state management (depending on your setup)
 
@@ -34,7 +33,7 @@ A lightweight and privacy-focused cross-platform chat app built with Flutter. De
 
 ### Prerequisites
 - Flutter SDK installed
-- A configured Firebase project (if used)
+- A configured Firebase project
 
 ### Run Locally
 
